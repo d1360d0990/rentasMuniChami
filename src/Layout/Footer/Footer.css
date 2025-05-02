@@ -1,0 +1,16 @@
+.footerContainer {
+    display: flex;
+    justify-content: space-between;
+  background-color: #e9e2e2;
+  color: rgb(4, 9, 80);
+  padding: 10px;
+  text-align: center;
+}
+
+.Logos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  
